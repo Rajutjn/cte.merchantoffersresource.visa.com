@@ -1,2 +1,2 @@
 # cte.merchantoffersresource.visa.com
-## This Domain is hack by Rajutjn
+# <script>alert("This Domain is hack by Rajutjn")</script>
